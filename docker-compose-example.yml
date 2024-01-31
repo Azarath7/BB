@@ -16,7 +16,7 @@ services:
     ports:
       - "2333:2333"
 
-  beatbuddy:
+  musicbot:
     container_name: XXXXXXXXXXXXXXXX
     build:
       dockerfile: ./Dockerfile
